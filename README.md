@@ -1,5 +1,6 @@
 # img-folder
-repositorys README.md中使用的图片
+GitHub README.md中使用的图片
+
 
 若图片不显示：本机hosts中添加
 
